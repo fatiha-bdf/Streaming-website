@@ -1,0 +1,16 @@
+data/
+*.swp
+*.vim
+commit_msg_template
+api/package-lock.json
+api/docker
+client/docker
+client/package-lock.json
+api/node_modules/
+client/node_modules/
+api/uploads/
+api/.env
+.env
+client/.env
+.docker
+
